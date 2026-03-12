@@ -1,0 +1,17 @@
+Feasiblity check,pct
+heat_demand_met,100.00
+elec_demand_met,40.16
+boiler_out_ratings,100.00
+boiler_in_out_rln,100.00
+ee_elec_ratings,100.00
+ee_in_out_rln,100.00
+batt_disch_ratings,100.00
+buff_disch_ratings,100.00
+buff_charge_ratings,100.00
+batt_charge_ratings,100.00
+chp_in_out_rln_heat,100.00
+chp_in_out_rln_elec,100.00
+chp_out_elec_ratings,100.00
+chp_out_heat_ratings,100.00
+chp_threshold,100.00
+boiler_threshold,100.00
