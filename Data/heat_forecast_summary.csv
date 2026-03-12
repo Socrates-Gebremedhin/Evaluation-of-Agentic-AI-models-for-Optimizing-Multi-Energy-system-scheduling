@@ -1,5 +1,0 @@
-model,rmse,mbe,elapsed_sec,train_rmse,train_mbe
-XGBoost,11.20,-0.30,0.03,9.09,0.00
-LSTM,15.75,-1.03,9.75,7.94,-0.17
-SARIMA,74.46,-67.71,6.18,15.65,0.36
-Persistence,78.18,-71.17,0.00,10.19,0.02
