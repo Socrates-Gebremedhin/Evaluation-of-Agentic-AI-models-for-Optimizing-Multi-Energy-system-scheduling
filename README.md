@@ -17,7 +17,6 @@ This repository contains the code and data used to evaluate agentic AI models fo
 
 ## Key Components
 
-- **Data**: CSV files containing forecasts, feasibility statistics, and other inputs used by forecasting and optimization modules.
 - **Preprocessing & Forecasting**: `preprocessor/`, `forecast_models/`, and `forecast_implementation/` together handle data preparation, feature creation, and training/evaluation of forecast models for electricity, heat, and PV.
 - **Optimization & Scheduling**: `Optimization/` and `Schedulers/` implement feasibility layers, baseline controllers, and look-ahead LP/RL-based schedulers.
 - **Energy Components**: `energy_components/` defines the digital twin of the energy system and its individual components used inside the schedulers and optimizers.
