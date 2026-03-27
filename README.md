@@ -4,7 +4,6 @@ This repository contains the code and data used to evaluate agentic AI models fo
 
 ## Directory Structure
 
-- **Data/**: Input and processed datasets, including forecasts, feasibility statistics, and other CSV files used across the project.
 - **energy_components/**: Models of the physical system components, such as the battery, boiler, CHP, PV, buffers, and the digital twin of the full system.
 - **forecast_models/**: Implementations of the different forecasting models (LSTM, XGBoost, SARIMA/X, persistence, etc.) used for electricity, heat, and PV.
 - **forecast_implementation/**: Notebooks and helper code that train, compare, and evaluate the forecast models.
